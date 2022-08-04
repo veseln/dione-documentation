@@ -1,0 +1,170 @@
+code;name
+AVI;Oats
+GRI;Buckwheat
+KRV;Spring triticale
+KRŽ;Winter triticale
+KUK;Corn
+KVV;Spring wheat
+KVŽ;Winter wheat
+MIV;Spring barley
+MIŽ;Winter barley
+RAV;Spring rape
+RAŽ;Winter rape
+RUV;Spring rye
+RUŽ;Winter rye
+BOB;Bolivian doves
+RAP;Colza
+JUD;Agile
+KTŽ;Other crops on arable land
+AGU;Cucumbers (closed ground)
+POM;Tomatoes (closed ground)
+DUK;Other vegetables (closed ground)
+AGK;Cucumbers
+POD;Tomatoes
+BUR;Beetroots
+BRO;Broccoli
+KOP;Cabbage
+KOŽ;Cauliflower
+KOK;Chinese cabbage
+KOB;Brussels sprouts
+ART;Artichokes
+MOR;Carrots
+KAL;Kohlrabi
+SVO;Onions
+POR;Leeks
+ČES;Garlic
+DAK;Other vegetables
+SAL;Celery
+CUK;Zucchini
+MOL;Pumpkins
+PAT;Patisony
+SLO;Salad
+RID;"White, black radishes"
+RDK;Radishes
+AGR;Courgettes
+PAP;Paprika
+GRE;Swedes
+RŪG;Sorrel
+KRA;Dill
+ŠPI;Spinach
+ROP;Turnips
+BAK;Eggplants
+PAS;Parsnips
+BUL;Potatoes
+APY;Hops
+CUR;Sugar beet
+PAR;Mangel-wurzel
+GAB;White mustard
+GAJ;"Brown, black mustard"
+ALR;Oilseed radish
+KMY;Cumin
+FAC;Bluebell
+KAN;Hemp
+LIN;Flax
+SAU;Sunflower
+SRS;Millet
+SRG;Sorghum
+STR;Grass (canary feed)
+SJO;Soy
+TAB;Tobacco
+BAZ;Basilica
+RAD;Oregano
+PET;Parsley
+KLA;Calendars
+AMP;"Aromatic, medicinal and culinary herbs (mint, coriander, marigold, thyme, chamomile, marjoram, sage, fennel, basil, lemon balm, valerian and parsley, oregano, etc.)."
+BMI;Agricultural plant mixtures where protein crops are predominant (except herbal plant mixture)
+NMI;Agricultural plant mixtures where protein crops are not dominant
+PDŽ;Green fallow
+PDJ;Black fallow
+BRN;Amaranth
+LEG;Legally
+SLU;Lettuce (closed ground)
+PAU;Peppers (in closed soil)
+KSV;Spring wheat ‘Spelta’
+KSŽ;Winter wheat ‘Spelta’
+DAM;Mixed vegetables (supported by coupled support)
+PUP;Beans
+VIK;Wikis
+ŽIR;Peas
+LEŠ;Lentils
+LUB;Lupin
+DOB;Clover
+ESP;Sainfoin
+BAR;Honey
+LIC;Lucerne
+GAR;Lotus purpueus
+OŽI;Galega orientalis
+SER;Ornithopus sativus
+ŽMI;Herbaceous plant mixtures where protein crops are predominant (Group III + GPZ)
+AKM;Nitrogen accumulated plant mixtures (consisting only of Group II and III plants)
+GPŽ;"Pasture or meadow, perennial grass up to 5 years"
+GPA;"Pasture or meadow, perennial grasses (fescue, mist, timothy, ryegrass, etc.) up to 5 years renewed in the current year"
+RZV;Risk improvement of water body
+5PT-8;Melliferous plant tape or fields of arable land
+5PT-7;Protection of water bodies against pollution and soil erosion on arable land
+OBS;Apple orchards
+KRS;Pear orchards
+SLS;Plum gardens
+VYS;Cherry gardens
+TRS;Sweet cherry orchards
+KTS;Other gardens and perennial berry
+ASU;Gooseberry berry
+JSU;Black currant berry
+RSU;Red currant berry
+BSU;White currant berry
+AVU;Raspberry
+ARU;Aronia berry
+BRA;Strawberry
+BRU;Strawberry (closed ground)
+SVU;Quince berry
+ŠIU;Blueberry (Vaccinium × covilleanum Butkus et Pliszka)
+GEU;Blackberry
+BKU;Lingonberry
+MĖU;Blueberry (Vaccinium myrtillus)
+SPU;Cranberry
+ŽEU;Wild strawberry
+PUU;Wayfaring-trees
+ŠAU;Sea buckthorn
+ERK;Rosehips
+GUD;Hawthorn
+ŠRM;Ashberry
+SMD;Honeysuckle
+AKT;Actinide
+RŠT;Walnut
+MED;Nurseries
+GĖL;Perennial flowers and ornamental plants (closed ground)
+GLU;Willows
+TUO;Poplar
+BAL;Grey alder
+DRA; Miscanthus x giganteus
+TOP;Jerusalem artichokes
+RAB;Rhubarb
+ŠPA;Asparagus
+KRI;Horseradish
+OŽE;Goats
+SOM;Mixed gardens (supported by coupled support)
+UOM;Mixed berries (supported by coupled support)
+DGP;Perennial pastures or meadows 5 years and more
+EPT;Extensive meadows grazing with livestock
+SPT;Specific meadows
+5PT-2;Extensive management of wetlands (direct payments are paid)
+MNP;Aquatic warbler habitats storage in raw and semi-natural grasslands
+MNŠ;Aquatic warbler habitats storage in wetlands (direct payments are paid)
+TPN;"Eligible areas, which in the current year do not meet the eligibility requirements"
+NEP;Not eligible areas
+MNN;Aquatic warbler habitats storage in wetlands
+5PT-3;Extensive management of wetlands
+5PT-9;Hedges management
+5PT-11;Reclamation of ditches when the grass is cut and removed
+5PT-12;Reclamation of ditches when the grass is crushed and spread on the slope of the ditch
+GRY;Mushrooms
+GRS;Mushrooms and substrate production
+MVP;Afforestation
+ŽM-1;Conifers with softwood broadleaves (not less than 20 %) or soft hardwood plantations (agricultural land)
+ŽM-2;Softwood and (or) soft broadleaves with not less than 20 % of solid hardwoods and (or) lime-tree admixture (agricultural land)
+ŽM-3;Hardwood and (or) lime-tree plantations with not more than 40 % of conifers and (or) soft deciduous (agricultural land)
+ŽM-4;"Hardwood, lime-tree, aspen for breeding (including hybrid aspen) plantations (agricultural land)"
+ŽM-5;"Oak plantation, where the area is planted with not less than 2500 trees per hectare of oak seedlings (agricultural land)"
+ŽM-6;Fast-growing hybrid aspen plantation for short rotation coppice (agricultural land)
+ŽM-7;Other fast-growing short rotation coppice (agricultural land)
+NTM;Natura 2000 forests
