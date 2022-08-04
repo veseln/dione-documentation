@@ -1,0 +1,35 @@
+{
+    "default_group": "Default",
+    "group_maps": [
+        {
+            "GROUP": "AFFORESTED LAND (NON-AGRICULTURAL)",
+            "LU_LABEL": [
+                "5"
+            ]
+        },
+        {
+            "GROUP": "ARABLE LAND",
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "GRASSLAND (PERMANENT PASTURE)",
+            "LU_LABEL": [
+                "3"
+            ]
+        },
+        {
+            "GROUP": "GREENHOUSE",
+            "LU_LABEL": [
+                "6"
+            ]
+        },
+        {
+            "GROUP": "PERMANENT CROPS",
+            "LU_LABEL": [
+                "2"
+            ]
+        }
+    ]
+}

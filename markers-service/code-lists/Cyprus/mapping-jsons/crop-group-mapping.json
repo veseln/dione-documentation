@@ -1,0 +1,547 @@
+{
+    "default_group": "Default",
+    "group_maps": [
+        {
+            "GROUP": "ALLIUM SP.: ONIONS / LEEK / GARLIC",
+            "CROP_LABEL": [
+                "200"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "ARTICHOKES",
+            "CROP_LABEL": [
+                "34"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "BANANAS",
+            "CROP_LABEL": [
+                "69"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "BARLEY",
+            "CROP_LABEL": [
+                "3"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "BEETS/CARROTS/LEAFY",
+            "CROP_LABEL": [
+                "176",
+                "181",
+                "189",
+                "194",
+                "208",
+                "221",
+                "222",
+                "223",
+                "224",
+                "228",
+                "229",
+                "234"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "CAROB TREES",
+            "CROP_LABEL": [
+                "67"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "CEREALS",
+            "CROP_LABEL": [
+                "216",
+                "237",
+                "5",
+                "6"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "CEREALS-LEGUMES MIXTURES",
+            "CROP_LABEL": [
+                "211",
+                "212",
+                "213",
+                "214",
+                "215"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "CITRUS TREES",
+            "CROP_LABEL": [
+                "68"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "CLOVERS",
+            "CROP_LABEL": [
+                "15",
+                "231"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "COMMON OAT",
+            "CROP_LABEL": [
+                "4"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "COTTON",
+            "CROP_LABEL": [
+                "175"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "CRUCIFERS/LETTUCE",
+            "CROP_LABEL": [
+                "202",
+                "210"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "DAMASK ROSE",
+            "CROP_LABEL": [
+                "236"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "DECIDUOUS FRUIT TREES",
+            "CROP_LABEL": [
+                "233"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "EGGPLANTS",
+            "CROP_LABEL": [
+                "29"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "FENNEL",
+            "CROP_LABEL": [
+                "174"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "FIGS",
+            "CROP_LABEL": [
+                "56"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "GRASSES",
+            "CROP_LABEL": [
+                "13",
+                "170",
+                "204",
+                "205",
+                "225",
+                "23",
+                "333"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "GREENHOUSES",
+            "CROP_LABEL": [
+                "1",
+                "110",
+                "111",
+                "150",
+                "155",
+                "176",
+                "177",
+                "178",
+                "189",
+                "195",
+                "197",
+                "198",
+                "200",
+                "202",
+                "210",
+                "215",
+                "224",
+                "226",
+                "230",
+                "233",
+                "235",
+                "236",
+                "237",
+                "238",
+                "239",
+                "25",
+                "26",
+                "29",
+                "3",
+                "30",
+                "31",
+                "32",
+                "35",
+                "36",
+                "4",
+                "40",
+                "41",
+                "42",
+                "5",
+                "56",
+                "68",
+                "69",
+                "70",
+                "71",
+                "75",
+                "9"
+            ],
+            "LU_LABEL": [
+                "6"
+            ]
+        },
+        {
+            "GROUP": "LAND LYING FALLOW",
+            "CROP_LABEL": [
+                "75"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "LEGUMES",
+            "CROP_LABEL": [
+                "150",
+                "151",
+                "152",
+                "159",
+                "162",
+                "177",
+                "18",
+                "19",
+                "219",
+                "22",
+                "35",
+                "36",
+                "8",
+                "9"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "MINORITY CROPS",
+            "CROP_LABEL": [
+                "122",
+                "172",
+                "178",
+                "63"
+            ],
+            "LU_LABEL": [
+                "5",
+                "1",
+                "2"
+            ]
+        },
+        {
+            "GROUP": "OKRA",
+            "CROP_LABEL": [
+                "218"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "OLIVES",
+            "CROP_LABEL": [
+                "42"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "ORCHARD / VARIUS FRUIT TREES/VEGETABLES",
+            "CROP_LABEL": [
+                "155"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "PEAS",
+            "CROP_LABEL": [
+                "156",
+                "158",
+                "17",
+                "201"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "PEPPER",
+            "CROP_LABEL": [
+                "30"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "PERMANENT GRASSLAND",
+            "CROP_LABEL": [
+                "121",
+                "76"
+            ],
+            "LU_LABEL": [
+                "3"
+            ]
+        },
+        {
+            "GROUP": "PISTACHIOS",
+            "CROP_LABEL": [
+                "47"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "POTATOES",
+            "CROP_LABEL": [
+                "40"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "RAPESEED",
+            "CROP_LABEL": [
+                "185"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "SHRUB CROPS",
+            "CROP_LABEL": [
+                "239"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "SQUASHES",
+            "CROP_LABEL": [
+                "196",
+                "197",
+                "198",
+                "199",
+                "220",
+                "26",
+                "31",
+                "32"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "STRAWBERRIES",
+            "CROP_LABEL": [
+                "41"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "SWEET POTATO",
+            "CROP_LABEL": [
+                "179"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "SWEET PRICKLY PEAR",
+            "CROP_LABEL": [
+                "65"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "TABLE VINEYARDS",
+            "CROP_LABEL": [
+                "71"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "TARO ROOT",
+            "CROP_LABEL": [
+                "195"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "TOMATOES",
+            "CROP_LABEL": [
+                "25"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "TRADITIONAL TREES",
+            "CROP_LABEL": [
+                "184"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "TRADITIONAL VINEYARDS",
+            "CROP_LABEL": [
+                "173"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "TREE CROPS",
+            "CROP_LABEL": [
+                "238"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "TRITICALE",
+            "CROP_LABEL": [
+                "230"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "VARIOUS FLOWERS",
+            "CROP_LABEL": [
+                "110"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "VARIOUS VEGETABLES",
+            "CROP_LABEL": [
+                "111"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "WALNUTS",
+            "CROP_LABEL": [
+                "46"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        },
+        {
+            "GROUP": "WHEAT",
+            "CROP_LABEL": [
+                "1",
+                "226"
+            ],
+            "LU_LABEL": [
+                "1"
+            ]
+        },
+        {
+            "GROUP": "WINE VINEYARDS",
+            "CROP_LABEL": [
+                "70"
+            ],
+            "LU_LABEL": [
+                "2"
+            ]
+        }
+    ]
+}
